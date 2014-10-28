@@ -7,5 +7,5 @@ import (
 )
 
 func Do() {
-	fmt.Print("BLOH")
+	fmt.Println("BLOH")
 }
