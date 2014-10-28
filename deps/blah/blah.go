@@ -3,11 +3,10 @@
 package blah
 
 import (
-	"fmt"
 	"github.com/RAttab/blah/deps/bloh"
 )
 
-
-func main() {
+func Do() {
+	fmt.Println("BLAH")
 	bloh.Do()
 }
