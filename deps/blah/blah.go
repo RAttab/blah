@@ -8,7 +8,7 @@ import (
 	"fmt"
 )
 
-func Do() {
-	bloh.Do()
+func Do() {	
 	fmt.Println("BLAH")
+	bloh.Do()
 }
