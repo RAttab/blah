@@ -4,6 +4,8 @@ package blah
 
 import (
 	"github.com/RAttab/blah/deps/bloh"
+
+	"fmt"
 )
 
 func Do() {
