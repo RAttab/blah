@@ -9,6 +9,6 @@ import (
 )
 
 func Do() {
-	fmt.Println("BLAH")
 	bloh.Do()
+	fmt.Println("BLAH")
 }
